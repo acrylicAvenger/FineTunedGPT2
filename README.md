@@ -9,6 +9,8 @@ The project consists of 4 files.
 5. Index.js is for the REACT app to display the ouput.
 
 Note: please update the modelpath, tokenizerpath and dataset location according to your file locations.
+      Use a bigger dataset for more accurate results.
+      Divide huge dataset into smaller chunks for batch processing.
 
 
 #How to use:
